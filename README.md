@@ -10,7 +10,7 @@
 # в ендпоіті - http://localhost:8000/api/v1/movies/import
 # В postman не забути використати вкладку form-data
 # VALUE - файл, CONTENT TYPE - File
-# файл збережено в структурі проекту - sample_mies.txt
+# файл збережено в структурі проекту - sample_movies.txt
 #
 
 
